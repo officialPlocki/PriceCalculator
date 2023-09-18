@@ -1,0 +1,9 @@
+main: xyz.plocki.demo.Demo
+prefix: Demo
+load: STARTUP
+api-version: 1.13
+version: 1.0-SNAPSHOT
+author: plocki
+name: Demo
+commands:
+  items:
